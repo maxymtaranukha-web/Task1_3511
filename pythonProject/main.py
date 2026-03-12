@@ -20,6 +20,6 @@ class Auto:
 
 nick = Human("Nick")
 jon = Human("Jon")
-car = Auto("Mercedes")
+car = Auto("Mercedsses")
 car.add_passenger(nick, jon)
 car.print_passengers_names()
